@@ -1,5 +1,9 @@
 # StreamLabs Provider for OAuth 2.0 Client
 
+[![Build Status](https://travis-ci.com/jrodella/oauth2-streamlabs.svg?branch=master)](https://travis-ci.com/jrodella/oauth2-streamlabs)
+[![Latest Stable Version](http://poser.pugx.org/jrodella/oauth2-streamlabs/v)](https://packagist.org/packages/jrodella/oauth2-streamlabs)
+[![License](http://poser.pugx.org/jrodella/oauth2-streamlabs/license)](https://packagist.org/packages/jrodella/oauth2-streamlabs)
+
 This package provides StreamLabs OAuth 2.0 support for the PHP League's [OAuth 2.0 Client](https://github.com/thephpleague/oauth2-client).
 
 ## Installation
