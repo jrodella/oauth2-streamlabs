@@ -1,0 +1,40 @@
+{
+    "name": "jrodella/oauth2-streamlabs",
+    "description": "StreamLabs OAuth 2.0 Client Provider for The PHP League OAuth2-Client",
+    "keywords": [
+        "oauth",
+        "league",
+        "package",
+        "streamlabs",
+        "client"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jonathan R. Delgado",
+            "email": "jon.delgado@outlook.com",
+            "homepage": "https://github.com/jrodella"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0",
+        "league/oauth2-client": "^2.2.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.7",
+        "mockery/mockery": "^1.2",
+        "ext-json": "*",
+        "squizlabs/php_codesniffer": "^3.4",
+        "jakub-onderka/php-parallel-lint": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Jrodella\\OAuth2\\Client\\Provider\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Jrodella\\OAuth2\\Client\\Test\\Provider\\": "tests/"
+        }
+    }
+}
