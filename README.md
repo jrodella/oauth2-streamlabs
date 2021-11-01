@@ -1,6 +1,6 @@
 # StreamLabs Provider for OAuth 2.0 Client
 
-[![Build Status](https://travis-ci.com/jrodella/oauth2-streamlabs.svg?branch=master)](https://travis-ci.com/jrodella/oauth2-streamlabs)
+[![CircleCI Build](http://poser.pugx.org/jrodella/oauth2-streamlabs/circleci)](https://packagist.org/packages/jrodella/oauth2-streamlabs)
 [![Latest Stable Version](http://poser.pugx.org/jrodella/oauth2-streamlabs/v)](https://packagist.org/packages/jrodella/oauth2-streamlabs)
 [![License](http://poser.pugx.org/jrodella/oauth2-streamlabs/license)](https://packagist.org/packages/jrodella/oauth2-streamlabs)
 
